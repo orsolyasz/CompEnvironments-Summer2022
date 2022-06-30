@@ -37,7 +37,7 @@ The following document will outline the overall development process with a parti
 
 The full final github repo can be accessed [here](https://github.com/adamdavidcole/unreal-free-float-game). This was mostly managed by Adam, with whom I shared and collaborated on a lot of the Arduino code, with further uploads definitely from Sali and likely from Alexandre, who did quite some independent work on the Unreal end. That said, I want to acknowledge the contributions of all group members in our several long sessions (a lot of which inlcuded at least some coding updates as well) as well as individual explorations into game mechanics, textures, and more, and reiterate just how much of a team work focused project this really was. 
 
-######Further bits of my solo parts of code and project development, as well as image documentation is in my own [repo](https://github.com/orsolyasz/CompEnvironments-Summer2022), and further (narrated) video documentation and images can be found in this [Google Drive folder](https://drive.google.com/drive/folders/1dg3IlSSaJ3ajuTHMqoBdHLw2Asj2eavg?usp=sharing).######
+###### Further bits of my solo parts of code and project development, as well as image documentation is in my own [repo](https://github.com/orsolyasz/CompEnvironments-Summer2022), and further (narrated) video documentation and images can be found in this [Google Drive folder](https://drive.google.com/drive/folders/1dg3IlSSaJ3ajuTHMqoBdHLw2Asj2eavg?usp=sharing). ######
 
 ## Inspiration and Initial Explorations
 
