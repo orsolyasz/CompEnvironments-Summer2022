@@ -6,7 +6,7 @@ _Transcend your body, leave material problems behind, explore perfect inner peac
 
 _Take a glimpse of the future – try SoulNet today._
 
-[![Title Cover that reads SoulNet]()](https://www.youtube.com/watch?v=XkymM3IcORg)
+[![Title Cover that reads SoulNet](https://raw.githubusercontent.com/orsolyasz/CompEnvironments-Summer2022/main/Photos/Cover.png)](https://www.youtube.com/watch?v=XkymM3IcORg)
 _Click image link for a short video documentation by Sali Mallat_
 
 ## The Experience
